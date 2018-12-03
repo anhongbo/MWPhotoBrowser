@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   s.dependency 'MBProgressHUD', '~> 0.9'
   s.dependency 'DACircularProgress', '~> 2.3'
 
-  # SDWebImage
-  s.dependency 'SDWebImage', '~> 4.0'
+  # YHDXSDWebImage
+  s.dependency 'YHDXSDWebImage', :git => 'https://github.com/anhongbo/YHDXSDWebImage.git'
 
 end
