@@ -41,6 +41,6 @@ Pod::Spec.new do |s|
   s.dependency 'DACircularProgress', '~> 2.3'
 
   # YHDXSDWebImage
-  s.dependency 'YHDXSDWebImage', :git => 'https://github.com/anhongbo/YHDXSDWebImage.git'
+  s.dependency 'YHDXSDWebImage'
 
 end
